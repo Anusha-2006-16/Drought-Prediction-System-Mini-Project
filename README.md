@@ -65,20 +65,13 @@ Drought Probability
 ## 🖥️ Application Screenshots
 
 ### Dashboard
-![Dashboard]("C:\Users\Admin\Pictures\Screenshots\Screenshot 2026-10-08 162027.png")
+![Drought Prediction Dashboard](Screenshot 2026-10-08 162027.png)
 
-### SPI12 Trend
-![SPI12 Trend](screenshots/spi12-trend.png)
+![Drought Prediction Result](Screenshot 2026-10-08 162103.png)
 
-### Drought Prediction
-![Prediction](screenshots/prediction.png)
+![Drought Prediction Result](Screenshot 2026-10-08 162118.png   )
 
-### Manual Parameter Prediction
-![Manual Prediction](screenshots/manual-prediction.png)
-
-
-
-
+![Drought Prediction Result](Screenshot 2026-10-08 162159.png)
 
 
 
