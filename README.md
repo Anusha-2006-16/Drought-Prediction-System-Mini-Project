@@ -62,3 +62,16 @@ Dropout
 Fully Connected Layer
   ↓
 Drought Probability
+
+
+### 🔴 IMPORTANT — your 6 images must have these exact names
+
+In the **same folder as `README.md`** on GitHub:
+
+
+dashboard.png
+spi12-trend.png
+prediction.png
+manual-input.png
+manual-result.png
+output.png
